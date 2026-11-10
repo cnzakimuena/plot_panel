@@ -24,10 +24,6 @@ python plot_panel.py
     <img src="figure.png" alt="example image" height="500">
 </p>
 
-Cite As
-
-[Nzakimuena, C. B., Solano, M. M., Marcotte-Collard, R., Lesk, M. R., & Costantino, S. (2025). Spatial and temporal changes in choroid morphology associated with long-duration spaceflight. Investigative Ophthalmology & Visual Science, 66(5), 17-17.](https://doi.org/10.1167/iovs.66.5.17)
-
 ### References
 
 1. [Li, S., & Zhang, Y. (2020). Microscopic images of parasites species. Mendeley Data, 3, 290-309.](https://data.mendeley.com/datasets/38jtn4nzs6/3)
